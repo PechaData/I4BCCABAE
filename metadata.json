@@ -1,0 +1,45 @@
+{
+  "id": "I4BCCABAE",
+  "title": {
+    "en": "The Stainless Crystal Garland: A Commentary on Entering the Middle Way According to Chandrakirti's Oral Tradition",
+    "bo": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།"
+  },
+  "author": {
+    "en": "None",
+    "bo": "འཇུ་མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ།"
+  },
+  "imported": "2025-02-06T10:56:33.534165",
+  "source": "https://library.bdrc.io/show/bdr:WA0XLF286182AC886?tabs=bdr:MW23468_3132BA",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "The Stainless Crystal Garland: A Commentary on Entering the Middle Way According to Chandrakirti's Oral Tradition",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།"
+    },
+    "long_title": {
+      "en": "The Stainless Crystal Garland: A Commentary on Entering the Middle Way According to Chandrakirti's Oral Tradition",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།"
+    },
+    "commentary_of": "IFF6BF33A",
+    "document_id": "1dEUNdiOsVrkMj7YJNmnHiNld-DwSfa6Jnej8zrFxb0o",
+    "commentary_alignments": [
+      {
+        "source": "IFF6BF33A/layers/AB9A/Tibetan_Segment-C427.json",
+        "target": "I4BCCABAE/layers/A9D9/Meaning_Segment-7949.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
